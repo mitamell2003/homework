@@ -1,0 +1,21 @@
+body{
+    padding: 20px;
+    background-color: white;
+}
+.skeleton{
+    background-color: #cecece;
+    height: 30px;
+    width: 100%;
+}
+.post{
+    margin-top: 40px;
+
+}
+.img{
+    height: 200px;
+     
+}
+.title{
+    background-color: rgb(14, 13, 13);
+    height: 40px;
+}
